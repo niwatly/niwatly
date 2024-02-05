@@ -22,4 +22,13 @@
 
 ※ 番号が若いほど古い経験です
 
+# お気に入りの記事
+技術系
+- [一番高い子供に合わせて他の子供をなるべく引き伸ばすあのUIをIntrinsicHeightで作ります](https://qiita.com/niwatly/items/54dcb73c42e6f9c06c20)
+- [「URLでアプリを開く」を丁寧に深堀りしていく](https://note.com/toridori_inc/n/nb7237a217a51)
+- [Flutter の Stream から見る Reactive Programming の入り口](https://zenn.dev/toridori/articles/75bc9e96237c83)
+
+組織系
+- [プロダクト開発部のアップデートが進んでいます！](https://www.wantedly.com/companies/toridori/post_articles/502898)
+
 [Twitter](https://twitter.com/niwatly), [zenn](https://zenn.dev/niwatly)
