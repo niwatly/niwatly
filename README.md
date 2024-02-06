@@ -24,6 +24,7 @@
 
 # お気に入りの記事
 技術系
+- Android端末におけるライブ配信サービスの実現 [前編](https://gihyo.jp/dev/serial/01/mixchannel/0005) [後編](https://gihyo.jp/dev/serial/01/mixchannel/0006)
 - [一番高い子供に合わせて他の子供をなるべく引き伸ばすあのUIをIntrinsicHeightで作ります](https://qiita.com/niwatly/items/54dcb73c42e6f9c06c20)
 - [「URLでアプリを開く」を丁寧に深堀りしていく](https://note.com/toridori_inc/n/nb7237a217a51)
 - [Flutter の Stream から見る Reactive Programming の入り口](https://zenn.dev/toridori/articles/75bc9e96237c83)
