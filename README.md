@@ -32,4 +32,4 @@
 組織系
 - [プロダクト開発部のアップデートが進んでいます！](https://www.wantedly.com/companies/toridori/post_articles/502898)
 
-[Twitter](https://twitter.com/niwatly), [zenn](https://zenn.dev/niwatly)
+[Twitter](https://twitter.com/niwatly), [zenn](https://zenn.dev/niwatly) [Github](https://github.com/niwatly)
